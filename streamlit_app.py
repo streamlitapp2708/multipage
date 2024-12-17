@@ -33,7 +33,7 @@ pg = st.navigation(
 
 
 # --- SHARED ON ALL PAGES ---
-st.logo("assets/SF_1.jpg")
+# st.logo("assets/SF_1.jpg")
 
 # --- RUN NAVIGATION ---
 pg.run()

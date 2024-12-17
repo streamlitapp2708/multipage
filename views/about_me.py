@@ -7,12 +7,12 @@ import streamlit as st
 col1, col2 = st.columns([8, 1])  # Adjust ratios to control spacing
 
 
-# Display image in the top-right corner
-with col2:
-    st.image(
-        "assets/sucden.png",  # Replace with your image URL or path
-        use_column_width=True,
-    )
+# # Display image in the top-right corner
+# with col2:
+#     st.image(
+#         "assets/sucden.png",  # Replace with your image URL or path
+#         use_column_width=True,
+#     )
 
 
 st.write("\n")
